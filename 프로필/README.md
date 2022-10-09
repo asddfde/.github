@@ -13,7 +13,7 @@ Our goal is to:
 
 # Project currently in progress
 
-1. Create a travel destination prediction model (under development)
+1. Effective Knowledge Based Recommender System for Tailored Trip
 2. Using GIS to create a dashboard to analyze the location of the playground for the elderly in Busan based on the WHO age-friendly framework
 
 # Contact
