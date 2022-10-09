@@ -1,4 +1,3 @@
-
 # Donga-Dau BigDataTeam
 
 > This is a team created by students of Dong-A University's Department of Computer and AI Engineering.  
