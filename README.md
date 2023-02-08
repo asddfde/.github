@@ -11,16 +11,16 @@ Our goal is to:
 3. Let's create a culture where we can communicate and grow together with our team members.
 4. Above all, let's bear fruit of our efforts.
 
-# Project currently in progress
+# Completed Project 
 
-1. Effective Knowledge Based Recommender System for Tailored Trip
-2. Using GIS to create a dashboard to analyze the location of the playground for the elderly in Busan based on the WHO age-friendly framework
+1. Using GIS to create a dashboard to analyze the location of the playground for the elderly in Busan based on the WHO age-friendly framework
+
+# Project currently in progress 
+- None
 
 # Contact
 
-- [Homepage](jhpark.org)
+- [Team Homepage](https://dau-bigdatateams.github.io/)
+- [Lead Homepage](jhpark.org)
 - Email : jhparkinglot@gmail.com
 ___
-
-> This team is active with the support of Dong-A University's Non-Department Program (Dong-A Study).
- 
